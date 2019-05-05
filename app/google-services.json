@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946742956037",
+    "firebase_url": "https://berushopapp.firebaseio.com",
+    "project_id": "berushopapp",
+    "storage_bucket": "berushopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946742956037:android:e73ba0069b1a5acb",
+        "android_client_info": {
+          "package_name": "com.imane.berushopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946742956037-osiun5n284cjn5keircieln932p56i5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imane.berushopapp",
+            "certificate_hash": "2d688a556646bd5c587aafbb34b7ab264bc10119"
+          }
+        },
+        {
+          "client_id": "946742956037-4o3tokrjlcnnn3c7mu2p843cecmqur47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtznExz5L1Jc4a9Z62irndQMvw2I3CcUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946742956037-4o3tokrjlcnnn3c7mu2p843cecmqur47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
